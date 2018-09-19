@@ -1,0 +1,179 @@
+      THE ACADAMIC SUPPLY COMPANY LTD                            I N V O I C E
+                                                                 - - - - - - -
+
+      Castle House                                               Invoice Number: 111
+      George Street                                              Date: 2017-09-18
+      Dublin 2
+
+      TO: 
+      Mr Eoin Meehan                                             po_number: jay         
+      Back of Beyond                                             Customer Number: 1           
+      Virginia            
+      Co Cavan            
+                          
+      
+                   
+     Item  Description                              Unit Price   Quantity  Extended Price
+     ----  -----------                              ----------   --------  --------------
+      1    White board                                 25.00       1.00           25.00
+      2    Markers                                      6.00      10.00           60.00
+      3    Duster                                       2.00      10.00           20.00
+      4    Cleaner (Bottle)                            15.00      10.00          150.00
+      5    Markers                                      6.00      10.00           60.00
+
+                                                                        Total:   315.00
+                                                                    VAT (23%):    72.45 
+                                                                  Grand Total:   387.45
+
+
+
+
+      Make all cheques payable to THE ACADAMIC SUPPLY COMPANY LTD
+      Total due in 15 days.
+
+
+                                    Thank you for you business!                                     
+      THE ACADAMIC SUPPLY COMPANY LTD                            I N V O I C E
+                                                                 - - - - - - -
+
+      Castle House                                               Invoice Number: 112
+      George Street                                              Date: 2017-09-18
+      Dublin 2
+
+      TO: 
+      Mr Eoin Meehan                                             po_number: jay         
+      Back of Beyond                                             Customer Number: 1           
+      Virginia            
+      Co Cavan            
+                          
+      
+                   
+     Item  Description                              Unit Price   Quantity  Extended Price
+     ----  -----------                              ----------   --------  --------------
+      1    Lined ledger books                          10.00     100.00         1000.00
+      2    Spiral bound notebooks                       2.00     100.00          200.00
+      3    Pens (Blue)                                  1.00     100.00          100.00
+      4    Guest book                                  12.50       2.00           25.00
+      5    Badges (pack of 100)                        10.00      12.00          120.00
+
+                                                                        Total:  1445.00
+                                                                    VAT (23%):   332.35 
+                                                                  Grand Total:  1777.35
+
+
+
+
+      Make all cheques payable to THE ACADAMIC SUPPLY COMPANY LTD
+      Total due in 15 days.
+
+
+                                    Thank you for you business!                                     
+      THE ACADAMIC SUPPLY COMPANY LTD                            I N V O I C E
+                                                                 - - - - - - -
+
+      Castle House                                               Invoice Number: 113
+      George Street                                              Date: 2017-09-18
+      Dublin 2
+
+      TO: 
+      Ms Wilhemina Bloggs                                             po_number: jay         
+      27 Greenacres                                              Customer Number: 2           
+      Drogheda            
+      Co Louth            
+                          
+      
+                   
+     Item  Description                              Unit Price   Quantity  Extended Price
+     ----  -----------                              ----------   --------  --------------
+      1    White board                                 25.00       4.00          100.00
+      2    Markers                                      6.00       4.00           24.00
+      3    Lined ledger books                          10.00      50.00          500.00
+      4    Pens (Blue)                                  1.00      50.00           50.00
+      5    Badges (pack of 100)                        10.00       5.00           50.00
+      6    Pens (Red)                                   1.00      50.00           50.00
+      7    Pens (Black)                                 1.00      50.00           50.00
+
+                                                                        Total:   824.00
+                                                                    VAT (23%):   189.52 
+                                                                  Grand Total:  1013.52
+
+
+
+
+      Make all cheques payable to THE ACADAMIC SUPPLY COMPANY LTD
+      Total due in 15 days.
+
+
+                                    Thank you for you business!                                     
+      THE ACADAMIC SUPPLY COMPANY LTD                            I N V O I C E
+                                                                 - - - - - - -
+
+      Castle House                                               Invoice Number: 114
+      George Street                                              Date: 2017-09-18
+      Dublin 2
+
+      TO: 
+      Ms Persephone Phillips                                           po_number: jay         
+      19 Graceland Park                                          Customer Number: 4           
+      Rathfarnham         
+      Dublin              
+      Co Dublin           
+      
+                   
+     Item  Description                              Unit Price   Quantity  Extended Price
+     ----  -----------                              ----------   --------  --------------
+      1    White board                                 25.00       6.00          150.00
+      2    Spiral bound notebooks                       2.00     250.00          500.00
+      3    Lined ledger books                          10.00     250.00         2500.00
+      4    Markers                                      6.00     300.00         1800.00
+      5    Badges (pack of 100)                        10.00      90.00          900.00
+      6    Pens (Red)                                   1.00     200.00          200.00
+      7    Duster                                       2.00      50.00          100.00
+
+                                                                        Total:  6150.00
+                                                                    VAT (23%):  1414.50 
+                                                                  Grand Total:  7564.50
+
+
+
+
+      Make all cheques payable to THE ACADAMIC SUPPLY COMPANY LTD
+      Total due in 15 days.
+
+
+                                    Thank you for you business!                                     
+      THE ACADAMIC SUPPLY COMPANY LTD                            I N V O I C E
+                                                                 - - - - - - -
+
+      Castle House                                               Invoice Number: 115
+      George Street                                              Date: 2017-09-18
+      Dublin 2
+
+      TO: 
+      Mr Ebenezer Scrooge                                            po_number: jay         
+      Much Grubbing                                              Customer Number: 5           
+      Little Miserly      
+      Lincolnshire        
+      England             
+      LC1 5PQ
+            
+     Item  Description                              Unit Price   Quantity  Extended Price
+     ----  -----------                              ----------   --------  --------------
+      1    Badges (pack of 100)                         8.00      10.00           80.00
+      2    Lined ledger books                          10.00     100.00         1000.00
+      3    Spiral bound notebooks                       2.00     100.00          200.00
+      4    Pens (Blue)                                  1.00     100.00          100.00
+      5    Guest book                                  12.50       2.00           25.00
+
+                                                                        Total:  1405.00
+                                                                    VAT (23%):   323.15 
+                                                                  Grand Total:  1728.15
+
+
+
+
+      Make all cheques payable to THE ACADAMIC SUPPLY COMPANY LTD
+      Total due in 15 days.
+
+
+                                    Thank you for you business!                                     

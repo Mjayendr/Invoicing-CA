@@ -1,0 +1,31 @@
+cust_id,invoice_no,po_number,description,unit_price,quantity
+1,111,A12345,White board,25.00,1.00
+1,111,A12435,Markers,6.00,10.00
+1,111,A12435,Duster,2.00,10.00
+1,111,A12435,Cleaner (Bottle),15.00,10.00
+1,111,A12435,Markers,6.00,10.00
+1,112,B898989,Lined ledger books,10.00,100.00
+1,112,B898989,Spiral bound notebooks,2.00,100.00
+1,112,B898989,Pens (Blue),1.00,100.00
+1,112,B898989,Guest book,12.50,2.00
+1,112,B898989,Badges (pack of 100),10.00,12.00
+2,113,PO-10,White board,25.00,4.00
+2,113,PO-10,Markers,6.00,4.00
+2,113,PO-10,Lined ledger books,10.00,50.00
+2,113,PO-10,Pens (Blue),1.00,50.00
+2,113,PO-10,Badges (pack of 100),10.00,5.00
+2,113,PO-10,Pens (Red),1.00,50.00
+2,113,PO-10,Pens (Black),1.00,50.00
+4,114,A1,White board,25.00,6.00
+4,114,A1,Spiral bound notebooks,2.00,250.00
+4,114,A1,Lined ledger books,10.00,250.00
+4,114,A1,Markers,6.00,300.00
+4,114,A1,Badges (pack of 100),10.00,90.00
+4,114,A1,Pens (Red),1.00,200.00
+4,114,A1,Duster,2.00,50.00
+5,115,PO201010,Badges (pack of 100),8.00,10.00
+5,115,PO202011,Lined ledger books,10.00,100.00
+5,115,PO202011,Spiral bound notebooks,2.00,100.00
+5,115,PO202011,Pens (Blue),1.00,100.00
+5,115,PO202011,Guest book,12.50,2.00
+5,116,PO202011,Badges (pack of 100),10.00,12.00
